@@ -1,0 +1,10 @@
+Consumer Key (API Key)	cjUVw5AGfyrfazYJYIo2Sxk8e
+Consumer Secret (API Secret)	7mSixJzmVMtxh1ntygGXUfJAmSUp4LNx1Pjrc5uTt4dd2SIRRB
+
+Access Token	955240504442040320-as9Pt9benEeINBKNUiolX4pIePPh3WI
+Access Token Secret	lNw7gwVx9hZ4rCKKCMqGrB3PylfYXQXD7t3hiN0aRqFwt
+
+api = twitter.Api(consumer_key='cjUVw5AGfyrfazYJYIo2Sxk8e',
+                      consumer_secret='7mSixJzmVMtxh1ntygGXUfJAmSUp4LNx1Pjrc5uTt4dd2SIRRB',
+                      access_token_key='955240504442040320-as9Pt9benEeINBKNUiolX4pIePPh3WI',
+                      access_token_secret='lNw7gwVx9hZ4rCKKCMqGrB3PylfYXQXD7t3hiN0aRqFwt')
